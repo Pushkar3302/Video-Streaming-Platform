@@ -1,0 +1,28 @@
+{
+  "name": "video-streaming-platform",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "keywords": [
+    "javascript",
+    "and",
+    "backend"
+  ],
+  "homepage": "https://github.com/Pushkar3302/Video-Streaming-Platform#readme",
+  "bugs": {
+    "url": "https://github.com/Pushkar3302/Video-Streaming-Platform/issues"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Pushkar3302/Video-Streaming-Platform.git"
+  },
+  "license": "ISC",
+  "author": "Pushkar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodeman src/index.js"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
