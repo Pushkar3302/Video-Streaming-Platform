@@ -1,0 +1,17 @@
+{
+  "name": "vedio-streaming-platform",
+  "version": "1.0.0",
+  "description": "a backend Project",
+  "keywords": [
+    "backend",
+    "and",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Pushkar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
