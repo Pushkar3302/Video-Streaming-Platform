@@ -23,6 +23,7 @@
     "dev": "nodeman src/index.js"
   },
   "devDependencies": {
-    "nodeman": "^1.1.2"
+    "nodeman": "^1.1.2",
+    "prettier": "^3.9.5"
   }
 }
